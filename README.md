@@ -18,7 +18,7 @@ During the course students will learn and use several tools necessary for comple
 - pandas_datareader
 - googlemaps
 - quandl
-- matploblib
+- matplotlib
 - seaborn
 - plotly
 - dash
