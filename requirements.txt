@@ -1,0 +1,13 @@
+- numpy
+- pandas
+- sklearn
+- pandas_datareader
+- googlemaps
+- quandl
+- matplotlib
+- seaborn
+- plotly
+- dash
+- dash-renderer
+- dash-html-components
+- dash-core-components
