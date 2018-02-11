@@ -1,0 +1,30 @@
+body{
+	 font-family: Calibri;
+}
+.newrow{
+	float:left;
+}
+.row1{
+	float: left;
+	width: 28%;
+	margin-right: 30px;
+	margin-left: 20px;
+}
+.row2{
+	float: left;
+	width: 28%;
+	margin-right: 30px;
+	margin-left: 20px;
+}
+.row3{
+	float: left;
+	width: 28%;
+	margin-right: 30px;
+	margin-left: 20px;
+}
+.row4{
+	float: left;
+	width: 28%;
+	margin-right: 30px;
+	margin-left: 20px;
+}
